@@ -36,23 +36,7 @@ This Power BI project delivers a comprehensive **financial analysis report** for
 - The biggest cost driver was **ADP** with $10.6M in expenses.
 - **Sales & Marketing** and **Customer Support** showed the highest overspending at class level.
 
----
 
-## 📁 File
-
-- [`Zainab Afolayan.pbix`](./Zainab%20Afolayan.pbix)
-
----
-
-## 📎 Visual Snapshots
-
-### 🔹 Financial Overview Page
-![Financial Overview](./Screenshot%20(14).png)
-
-### 🔹 Performance Detail Page
-![Performance View](./Screenshot%20(15).png)
-
----
 
 ## 📍 About the Author
 
